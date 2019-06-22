@@ -1,6 +1,17 @@
 # smile-demo
 
 > A Vue.js project
+  For imitating mall page
+
+  1. Home
+  ![Image text](https://github.com/WCPing/ImitateMall/blob/master/static/home.jpg)
+
+  2. List
+  ![Image text](https://github.com/WCPing/ImitateMall/blob/master/static/list.jpg)
+
+  3. Cart
+  ![Image text](https://github.com/WCPing/ImitateMall/blob/master/static/cart.jpg)
+
 
 ## Build Setup
 
